@@ -1,0 +1,48 @@
+/* Style pour les titres */
+
+
+h2 {
+    color: #24ddce;
+    margin-bottom: 1rem;
+  }
+  
+  /* Style pour les icônes */
+  .fa-user {
+    color: #24ddce;
+  }
+  
+  /* Style pour le formulaire */
+  form {
+    margin-top: 2rem;
+  }
+  
+  /* Style pour les champs de formulaire */
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-color: #24ddce;
+  }
+  
+  /* Style pour les messages d'erreur */
+  .is-invalid {
+    border-color: red;
+  }
+  
+  .invalid-feedback {
+    color: red;
+    font-size: 0.8rem;
+  }
+  
+  /* Style pour le bouton */
+  .btn-outline-primary {
+    border-color: #24ddce;
+    color: #24ddce;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #24ddce;
+    color: white;
+  }
+  
